@@ -3,9 +3,9 @@ To better streamline the ability for others to contribute new content to Kotlin 
 
 ## So you want to write up a tutorial?
 Whether it's a single tutorial or multiple parts,
-Challenges:
-SCOPE:  Scope is the hardest part, you'll want to keep it at a max of 45 minutes. You'll want to design an outline to create small intermissions for viewers and to help explain the progress of the project or topic
-Required technology: we have some recommendations on the minimum you'll need to accomplish recordings yourself without paying for anything, but feel free to reach out for recommendations based on what OS you use and other constraints might be involved
+**Challenges:**
+ - SCOPE:  Scope is the hardest part, you'll want to keep it at a max of 45 minutes. You'll want to design an outline to create small intermissions for viewers and to help explain the progress of the project or topic
+- Required technology: we have some recommendations on the minimum you'll need to accomplish recordings yourself without paying for anything, but feel free to reach out for recommendations based on what OS you use and other constraints might be involved
 
 ## 1. Complete the project or code you'd like to stream about.
 As you complete your project, be sure to write notes on the side as much as you can from struggles you might have encountered yourself, neat tricks you've learned, why you have preferences for some technologies, and your overall experience learning or completing your project.  We host our projects on Github, where you'll welcome to reach out to us to become a member and contribute a new repository.
@@ -24,7 +24,7 @@ Be sure to start from the very beginning.  The intention of Kotlin Thursdays is 
 We just want to make sure you're not feeding lies to the audience.  Joking.  We want to make sure the format is followed and make sure there aren't missing gaps or typos.
 
 ## 4. Record an episode!
-We need separate videos that we can weave together, including our animated opening for Kotlin Thursdays.  You're welcome to use methods that work best for you, whether you screencast coding with QuickTime record screen and you wish to create an overlay of audio, or you can use OBS Project, an open-source technology that is free to download and helps you switch between views, simulataneously record, etc. 
+We need separate videos that we can weave together, including our animated opening for Kotlin Thursdays.  You're welcome to use methods that work best for you, whether you screencast coding with QuickTime record screen and you wish to create an overlay of audio, or you can use [OBS Project](https://obsproject.com/), an open-source technology that is free to download and helps you switch between views, simulataneously record, etc. 
 
 ### Introduction/Overview:
  - **Record a video of yourself introducing yourself and the topic you'd like to cover.** This makes the learning experience more personable and we'd love to see who you are!
