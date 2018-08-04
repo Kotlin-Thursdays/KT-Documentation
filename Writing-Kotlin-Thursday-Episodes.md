@@ -37,10 +37,10 @@ We need separate videos that we can weave together, including our animated openi
 - **If a video is longer than 7 minutes, create an outline for intervals that will help summarize and wrap up the work you're doing to help the audience understand the high-level of the components required to accomplish your problem-solving/goal.**  You'll want to include recordings on yourself as you create these intervals to help tie together segments.
 
 ### Recording Guidelines
-Be sure to record in a small room where there isn't a lot of background noise going on
-Use headphones to isolate sound and guaruantee better quality sound
-Stay hydrated, and be aware of the noises your body makes on recording and be aware of them to minimize it. (i.e. lip smacking, coughing, etc). 
-While not required, if you have a microphone, cover it with some cloth to help soften those "Ps" and "S" that might come across harshly on audio.
+- Be sure to record in a small room where there isn't a lot of background noise going on
+- Use headphones to isolate sound and guaruantee better quality sound
+- Stay hydrated, and be aware of the noises your body makes on recording and be aware of them to minimize it. (i.e. lip smacking, coughing, etc). 
+- While not required, if you have a microphone, cover it with some cloth to help soften those "Ps" and "S" that might come across harshly on audio.
 
 ## 5. Send us your recordings!
 We'll put it together for you and send you the product for your "GO" on releasing!
