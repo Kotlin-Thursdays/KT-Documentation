@@ -27,14 +27,14 @@ We just want to make sure you're not feeding lies to the audience.  Joking.  We 
 We need separate videos that we can weave together, including our animated opening for Kotlin Thursdays.  You're welcome to use methods that work best for you, whether you screencast coding with QuickTime record screen and you wish to create an overlay of audio, or you can use OBS Project, an open-source technology that is free to download and helps you switch between views, simulataneously record, etc. 
 
 ### Introduction/Overview:
-Record a video of yourself introducing yourself and the topic you'd like to cover. This makes the learning experience more personable and we'd love to see who you are!
-Talk about the motivations - what is the problem and why do we care
-How do we solve the problem?  This may not mean coding, this could be more of a whiteboard/discussion.  If you have chicken scratch like I do, we have an animator for graphics surrounding things like general architecture patterns, algorithms, data structures, etc. This portion is free-form and we'll consider your needs on a case-by-case basis.
+ - **Record a video of yourself introducing yourself and the topic you'd like to cover.** This makes the learning experience more personable and we'd love to see who you are!
+ ![alttext](https://github.com/Kotlin-Thursdays/KT-Documentation/blob/master/kotlin-thursday-intro.png)
+
+ - **Talk about the motivations - what is the problem and why do we care?** How do we solve the problem?  This may not mean coding, this could be more of a whiteboard/discussion.  If you have chicken scratch like I do, we have an animator for graphics surrounding things like general architecture patterns, algorithms, data structures, etc. This portion is free-form and we'll consider your needs on a case-by-case basis.
 
 ### Screencast your coding session:
-Use your blog and your completed as a guideline to create a smooth live-coding session.  You can decide based on what you have available to you whether you'd like to record the screencasting with narrating simultaenously or if you'd like to complete a voiceover in addition to the screencast itself.  
-If a video is longer than 7 minutes, create an outline for intervals that will help summarize and wrap up the work you're doing to help the audience understand the high-level of the components required to accomplish your problem-solving/goal.  
-You'll want to include recordings on yourself as you create these intervals to help tie together segments.
+- **Use your blog and your completed as a guideline to create a smooth live-coding session.** You can decide based on what you have available to you whether you'd like to record the screencasting with narrating simultaenously or if you'd like to complete a voiceover in addition to the screencast itself.  
+- **If a video is longer than 7 minutes, create an outline for intervals that will help summarize and wrap up the work you're doing to help the audience understand the high-level of the components required to accomplish your problem-solving/goal.**  You'll want to include recordings on yourself as you create these intervals to help tie together segments.
 
 ### Recording Guidelines
 Be sure to record in a small room where there isn't a lot of background noise going on
