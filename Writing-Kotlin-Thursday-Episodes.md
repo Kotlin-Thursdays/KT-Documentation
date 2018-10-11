@@ -1,5 +1,5 @@
 # Kotlin Thursdays Documentation
-To better streamline the ability for others to contribute new content to Kotlin Thursdays, we wrote up some guidelines and tips for making submissions! Don't hesitate to reach out to admins and we'll help you along every step of the way from start to Kotlin Thursday!
+To better streamline the ability for others to contribute new content to Kotlin Thursdays, the Kotlin Thursdays team wrote up some guidelines and tips for making submissions! Don't hesitate to reach out to admins and we'll help you along every step of the way from start to Kotlin Thursday!
 
 ## So you want to write up a tutorial?
 Whether it's a single tutorial or multiple parts,
@@ -16,12 +16,12 @@ For the time being, feel free to use the readme located under [filename link in 
 
 ## 2. Write up a blog post.
 Whether it's a single tutorial or multiple parts, you'll need to write a blog for a couple reasons:
-Increased accessibility to lessons
-It will help you direct your narration of the project for your recording!
+1. Increased accessibility for learnes and readers
+2. It will help you direct your narration of the project and keep the flow for your recording!
 Be sure to start from the very beginning.  The intention of Kotlin Thursdays is to make no assumption the user is familiar with any particular library or IDE or framework.
 
 ## 3. Send it to Kotlin Thursday admins for review!
-We just want to make sure you're not feeding lies to the audience.  Joking.  We want to make sure the format is followed and make sure there aren't missing gaps or typos.
+We just want to make sure you're not feeding lies to the audience.  Joking.  We want to make sure the format is followed and make sure there aren't missing gaps or typos. Before sending, make sure you've checked for errors yourself.
 
 ## 4. Record an episode!
 We need separate videos that we can weave together, including our animated opening for Kotlin Thursdays.  You're welcome to use methods that work best for you, whether you screencast coding with QuickTime record screen and you wish to create an overlay of audio, or you can use [OBS Project](https://obsproject.com/), an open-source technology that is free to download and helps you switch between views, simulataneously record, etc. 
