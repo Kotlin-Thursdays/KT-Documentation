@@ -3,7 +3,7 @@ Wish to submit something for a particular Thursday? This is what needs to be sub
 # Deadlines
 
 1. Draft on blog - needs to be on Google docs for review the Thursday before
-2. Blog - the Sunday before Thursday
+2. Blog & Project on Github if applicable - the Sunday before Thursday
 3. Recordings - the Tuesday before Thursday
 
 # Weekly Expectations
