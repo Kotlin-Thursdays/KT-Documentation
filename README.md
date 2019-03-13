@@ -16,7 +16,7 @@ For the time being, feel free to use the readme located under [filename link in 
 
 ## 2. Write up a blog post.
 Whether it's a single tutorial or multiple parts, you'll need to write a blog for a couple reasons:
-1. Increased accessibility for learnes and readers
+1. Increased accessibility for learners and readers
 2. It will help you direct your narration of the project and keep the flow for your recording!
 Be sure to start from the very beginning.  The intention of Kotlin Thursdays is to make no assumption the user is familiar with any particular library or IDE or framework.
 
